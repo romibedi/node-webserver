@@ -1,0 +1,4 @@
+.DS_store
+package-lock.json
+server.log
+node_modules/
